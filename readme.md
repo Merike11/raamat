@@ -9,6 +9,6 @@ Samuti oli töö eesmärgiks uurida Laravel raamistiku olemust, kasutajasõbrali
 Laraveli baasil ehitatud CRUDBooster raamistikul põhinev andmebaas raamatukogu haldamiseks. Andmeid saab sisestada, muuta, kustutada. 
 
 ## Viited dokumentidele
-[lõputöö](https://kak-my.sharepoint.com/:b:/r/personal/merike_toose_ametikool_ee/Documents/L%C3%B5put%C3%B6%C3%B6.pdf?csf=1&web=1&e=FysUuS)
+[lõputöö](https://kak-my.sharepoint.com/:b:/r/personal/merike_toose_ametikool_ee/Documents/L%C3%B5put%C3%B6%C3%B6.pdf?csf=1&web=1&e=FysUuS)<br>
 [veebiversioon](https://raamat.ta18toose.itmajakas.ee/admin/login)
 
