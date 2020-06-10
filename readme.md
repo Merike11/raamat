@@ -8,7 +8,5 @@ Samuti oli töö eesmärgiks uurida Laravel raamistiku olemust, kasutajasõbrali
 ## Tehniline kirjeldus
 Laraveli baasil ehitatud CRUDBooster raamistikul põhinev andmebaas raamatukogu haldamiseks. Andmeid saab sisestada, muuta, kustutada. 
 
-## Viited dokumentidele
-[lõputöö dokumentatsioon](https://kak-my.sharepoint.com/:b:/g/personal/merike_toose_ametikool_ee/EUMOHoQRvNhPjF9iV6TcHvUB6Zu7NEN7tpaIB0Q6HuonoA?e=zoeqms)<br>
-[Raamaturiiul veebiversioon](https://raamat.ta18toose.itmajakas.ee/admin/login) Külastaja saab siseneda e-posti aadressiga: guest@guest.guest, parool: guest.
+
 
